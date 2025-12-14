@@ -1,0 +1,18 @@
+# 基础数据处理
+pandas>=1.5.3
+numpy>=1.24.3
+
+# 可视化
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# 统计分析
+scipy>=1.10.1
+statsmodels>=0.14.0
+factor_analyzer>=0.4.0
+
+# 机器学习（降维/聚类/分类）
+scikit-learn>=1.2.2
+
+# 解决threadpoolctl警告
+threadpoolctl>=3.1.0
